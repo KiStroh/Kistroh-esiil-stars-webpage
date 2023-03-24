@@ -1,8 +1,11 @@
 <h1>Hi, I'm Ki :)</h1>
 <h5>Current ESIIL intern, and excited to learn!</h5>
-<img src="SELFIE_30.jpg" width="150" height="200"
+<img src="SELFIE_30.jpg" width="150" 
      alt="Kianna's Picture"
-<h2>About Me</h2>
+
+ _About Me_ 
+     
+     
 <p>Attending <strong>United Tribes Technical University</strong>.
 <br>Currently finishing up my associate's degree in Environmental Science and Research<br> (Second year, second semester)</p>
 <p>I was born and raised in ND, most of my family lives in Flasher, ND.<br>
