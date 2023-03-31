@@ -1,7 +1,8 @@
 <h1>Hi, I'm Ki :)</h1>
+
 <h5>Current ESIIL intern, and excited to learn!</h5>
 <img src="SELFIE_30.jpg" width="150" 
-     alt="Kianna's Picture"
+     alt="Kianna's Picture">
 
  _About Me_ 
      
