@@ -4,7 +4,7 @@
 <img src="SELFIE_30.jpg" width="150" 
      alt="Kianna's Picture">
 
- _About Me_ 
+ <h2> About Me </h2>
      
      
 <p>Attending <strong>United Tribes Technical University</strong>.
